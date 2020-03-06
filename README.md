@@ -8,6 +8,12 @@ http://www.bouncycastle.org/csharp/
 
 http://fredjama.blogspot.com/2013/08/c-pgp-bouncy-castleopenpgp-library.htm
 
+程式碼主要分成三的部分：
+
+1. RSAKeys.cs (產生公鑰私鑰)
+2. PGPEncryption.cs (加密及數位簽章)
+3. PGPDecryption.cs (解密及數位認證)
+
 碰到問題：
 
 1. 第一次寫 win forms ，和過去寫網頁經驗最大的不同，在於網頁關閉時記憶體就自動釋放了，Win Forms 需自行下指令進行。 
