@@ -1,0 +1,12 @@
+C:\Users\MARK\source\repos\OpenPGP\bin\Debug\OpenPGP.dll
+C:\Users\MARK\source\repos\OpenPGP\bin\Debug\OpenPGP.pdb
+C:\Users\MARK\source\repos\OpenPGP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MARK\source\repos\OpenPGP\obj\Debug\OpenPGP.csprojAssemblyReference.cache
+C:\Users\MARK\source\repos\OpenPGP\obj\Debug\OpenPGP.csproj.GenerateResource.cache
+C:\Users\MARK\source\repos\OpenPGP\obj\Debug\OpenPGP.csproj.CoreCompileInputs.cache
+C:\Users\MARK\source\repos\OpenPGP\obj\Debug\OpenPGP.csproj.CopyComplete
+C:\Users\MARK\source\repos\OpenPGP\obj\Debug\OpenPGP.dll
+C:\Users\MARK\source\repos\OpenPGP\obj\Debug\OpenPGP.pdb
+C:\Users\MARK\source\repos\OpenPGP\obj\Debug\OpenPGP.RSAKeys.resources
+C:\Users\MARK\source\repos\OpenPGP\obj\Debug\OpenPGP.PGPDecryption.resources
+C:\Users\MARK\source\repos\OpenPGP\obj\Debug\OpenPGP.PGPEncryption.resources
